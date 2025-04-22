@@ -1103,6 +1103,12 @@ section.apply-now .item p {
   }
 }
 
+@media screen and (min-width: 570px) {
+  section.apply-now .item {
+    padding: 0;
+  }
+}
+
 .accordion-head .icon {
   float: right;
   transition: transform 200ms ease-in-out;

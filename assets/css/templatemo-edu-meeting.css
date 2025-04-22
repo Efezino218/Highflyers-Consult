@@ -2098,7 +2098,7 @@ responsive
   /* Smaller text */
   font-weight: 600;
   /* Semi-bold */
-  color: #000000;
+  color: #ff7927;
   /* Darker gray */
   letter-spacing: 0.5px;
   font-family: 'Segoe UI', Roboto, sans-serif;
@@ -2142,9 +2142,9 @@ responsive
   border-radius: 50%;
   border: 2px solid transparent;
   /* Thinner border */
-  border-top-color: #db0303;
+  border-top-color: #ff7927;
   /* Medium gray */
-  border-right-color: #000000;
+  border-right-color: #01286d;
   animation: rotate 1.2s cubic-bezier(0.4, 0, 0.2, 1) infinite reverse;
 }
 
